@@ -1,0 +1,10 @@
+﻿body {
+}
+table tr th{
+    color:navy;
+    border: solid 5px black;
+
+}
+.response{
+    color:green;
+}
